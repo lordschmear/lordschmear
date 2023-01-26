@@ -2,13 +2,13 @@
 <h3 align="center">Bartlett School of Planning MPlan Candidate</h3>
 
 
- A few things about me: **I like to skate 🛹, play chess ♟, and read 📚.**
+ **A few things about me:** I like to skate 🛹, play chess ♟, and read 📚.
 
- My hometown: **Los Angeles, CA**
+ **My hometown:** Los Angeles, CA
 
- Some of my favorite cities: **Copenhagen 🇩🇰, Lisbon 🇵🇹, & Montreal 🇨🇦**
+ **Some of my favorite cities:** Copenhagen 🇩🇰, Lisbon 🇵🇹, & Montreal 🇨🇦
 
- 📫 How to reach me: **ucbvdss@ucl.ac.uk**
+ **📫 How to reach me:** ucbvdss@ucl.ac.uk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
