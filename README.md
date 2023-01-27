@@ -1,4 +1,5 @@
-<h1 align="center">🤠 Howdy! My name is Diego Soler (he/him) 🤠</h1>
+<h1 align="center">🤠 Howdy! 🤠</h1>
+<h2 align="center">My name is Diego Soler (he/him) </h2>
 <h3 align="center">Bartlett School of Planning MPlan Candidate</h3>
 
 
